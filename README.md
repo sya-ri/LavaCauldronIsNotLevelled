@@ -1,6 +1,6 @@
 # LAVA_CAULDRON is not Levelled
 
-## `org.bukkit.Materiak`
+## `org.bukkit.Material`
 
 ```java
     /**
